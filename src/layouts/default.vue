@@ -1,8 +1,9 @@
 <template>
 <div>
     <Header/>
-  <main>
-    <slot></slot>
+  <main class="app-content">
+    <notifications />
+     <router-view></router-view>
   </main>
     <Footer/>
 </div>

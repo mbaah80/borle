@@ -1,7 +1,7 @@
 {
     "firebase": {
 
-    "apiKey": "AIzaSyBApJtBU6C97-MrmGYx-aXD5BCnm3gtlQM",
+        "apiKey": "AIzaSyBApJtBU6C97-MrmGYx-aXD5BCnm3gtlQM",
         "authDomain": "ecomence-5a2f8.firebaseapp.com",
         "projectId": "ecomence-5a2f8",
         "storageBucket": "ecomence-5a2f8.appspot.com",

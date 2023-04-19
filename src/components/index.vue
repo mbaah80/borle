@@ -9,9 +9,9 @@
             <div class="col-12">
               <div class="slider-content slider-content--animation">
 
-                <span class="content-span-1 u-c-secondary">Latest Update Stock</span>
+                <span class="content-span-1 u-c-secondaryBanner">Latest Update Stock</span>
 
-                <span class="content-span-2 u-c-secondary">30% Off On Bags</span>
+                <span class="content-span-2 u-c-secondaryBanner">30% Off On Bags</span>
 
 
                 <router-link class="shop-now-link btn--e-brand" to="/shop">SHOP NOW</router-link></div>
@@ -41,9 +41,9 @@
             <div class="col-12">
               <div class="slider-content slider-content--animation">
 
-                <span class="content-span-1 u-c-secondary">Find Top Brands</span>
+                <span class="content-span-1 u-c-secondaryBanner">Find Top Brands</span>
 
-                <span class="content-span-2 u-c-secondary">10% Off On Dresses</span>
+                <span class="content-span-2 u-c-secondaryBanner">10% Off On Dresses</span>
 
 
                 <router-link class="shop-now-link btn--e-brand" to="/shop">SHOP NOW</router-link></div>
